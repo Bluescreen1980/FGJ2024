@@ -17,6 +17,7 @@
     {"name":"MemoryGame","order":7,"path":"folders/Sprites/MemoryGame.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"startupScreen","order":18,"path":"folders/Sprites/startupScreen.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"card_background","order":17,"path":"sprites/card_background/card_background.yy",},

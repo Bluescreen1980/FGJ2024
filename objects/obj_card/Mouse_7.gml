@@ -8,7 +8,8 @@
   //global.cardBeforeLastCard = 0;
   //1 = doge, 2=flipping, 3=spidermen 4=this is fine 5=tonni 6= troll 7 = uganda 8=yellcat
   //11 = doge text 12=flipping tex 13=spidertext 14=fine text 15 = tonni text 16 = troll text 17= uganda text 18=yellcat text
- 
+global.cardTouches++;
+
   
 switch (cardType) {
     case 1:

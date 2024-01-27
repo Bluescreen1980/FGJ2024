@@ -1,12 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+global.cardGameOn = 1;
 global.cardTimer = 0;
 global.timerOn = 0;
 
 text1 = "";
 text2 = "";
-
+text3 = "";
  
 
 randomize()
