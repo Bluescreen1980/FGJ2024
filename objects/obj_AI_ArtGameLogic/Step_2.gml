@@ -2,25 +2,34 @@
 // You can write your code in this editor
 
 
-if (global.selectedText > 0){
+//if (global.selectedText > 0 && global.textSelectMode == 1){
 
-	global.currentArtPage=global.currentArtPage+1;
-	
+if (global.moveToNextRoom = true){
+
 	switch (global.currentArtPage) {
-	    case 2:
+	    case 1:
+			global.textSelectMode = 0;
+			global.selectedText = 0;
+			global.moveToNextRoom = false;
 	        room_goto(rm_galleryGame2);
 	        break;
-		case 3:
+		case 2:
+			global.textSelectMode = 0;
+			global.selectedText = 0;
+			global.moveToNextRoom = false;
 	        room_goto(rm_galleryGame3);
 	        break;
+		case 3:
+			global.textSelectMode = 0;
+			global.selectedText = 0;
+			global.moveToNextRoom = false;
+	        room_goto(rm_galleryGame4);
+	        break;	
 		case 4:
-	         room_goto(rm_galleryGame4);
-	        break;
-		case 5:
-	         room_goto(rm_galleryGame5);
-	        break;
-	    default:
-	         room_goto(rm_galleryGame6);
+			global.textSelectMode = 0;
+			global.selectedText = 0;
+			global.moveToNextRoom = false;
+	        room_goto(rm_galleryGameEnd1);
 	        break;
 	}
 

@@ -17,7 +17,7 @@ if global.currentArtPage = 5 {
 	}
 	
 
-if global.currentArtPage = 4 {
+else if global.currentArtPage = 4 {
 	text0 = "Select the most suitable description";
 	
 	        text1 = "1 Tumultuous voyage through the postmodern abyss, the art piece unfolds like a riddle wrapped in enigma, leaving the observer teetering on the precipice of bewildered contemplation. "
@@ -28,7 +28,7 @@ if global.currentArtPage = 4 {
 
 	
 	
-if global.currentArtPage = 3 {
+else if global.currentArtPage = 3 {
 			text0 = "Select the most suitable description";
 	        text1 = "1 In this kaleidoscopic carnival of symbols and subversion, each stroke of the artist's hand is a manifesto, every installation a call to question the status quo."
 			text2 = "2 Postmodern art is not just a mirror reflecting society; it's a carnival mirror distorting reality into a dazzling spectacle of irony, paradox, and poignant commentary."
@@ -37,7 +37,7 @@ if global.currentArtPage = 3 {
 		}
 
 
-	if global.currentArtPage = 2 {
+	else if global.currentArtPage = 2 {
 	text0 = "Select the most suitable description";
 
         text1 = "1 Embark on a mind-bending journey through the labyrinth of postmodern art, where meaning is a chameleon, and the canvas becomes a battlefield of ideologies!"
@@ -46,7 +46,7 @@ if global.currentArtPage = 3 {
 		
 	}
 
-if global.currentArtPage = 1 {
+else if global.currentArtPage = 1 {
 	text0 = "Select the most suitable description";	
 	      
 		  

@@ -1,0 +1,1 @@
+global.currentArtPage = 5

@@ -1,23 +1,39 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
 if (global.currentArtPage == 1){
  
-global.selectedArt1 = 1;
 selectedThis = 1;
-global.textSelectMode = 1;
-
-
+//global.textSelectMode = 1;
+global.selectedArt1 = image_index;
+global.moveToNextRoom = true;
 }
 
-if (selectedThis == 1){
-
-image_blend = c_aqua;
-
-}
-else{
-image_blend = c_white;
-}
-
+else if (global.currentArtPage == 2){
  
+selectedThis = 1;
+//global.textSelectMode = 1;
+global.selectedArt2 = image_index;
+global.moveToNextRoom = true;
+}
+
+else if (global.currentArtPage == 3){
+ 
+selectedThis = 1;
+//global.textSelectMode = 1;
+global.selectedArt3 = image_index;
+global.moveToNextRoom = true;
+}
+
+else if (global.currentArtPage == 4){
+ 
+selectedThis = 1;
+//global.textSelectMode = 1;
+global.selectedArt4 = image_index;
+global.moveToNextRoom = true;
+
+
+
+}
+
+
