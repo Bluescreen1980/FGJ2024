@@ -1,0 +1,1 @@
+type=  global.array1[5]

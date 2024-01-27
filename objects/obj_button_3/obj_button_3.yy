@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "select3",
-    "path": "sprites/select3/select3.yy",
+    "name": "nappi382",
+    "path": "sprites/nappi382/nappi382.yy",
   },
   "spriteMaskId": null,
   "visible": true,

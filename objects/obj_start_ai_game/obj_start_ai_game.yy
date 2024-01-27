@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "ai_art_game_button",
-    "path": "sprites/ai_art_game_button/ai_art_game_button.yy",
+    "name": "aiart_ui",
+    "path": "sprites/aiart_ui/aiart_ui.yy",
   },
   "spriteMaskId": null,
   "visible": true,
