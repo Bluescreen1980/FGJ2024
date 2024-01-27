@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_ai19",
-  "bbox_bottom": 456,
+  "bbox_bottom": 511,
   "bbox_left": 0,
-  "bbox_right": 473,
+  "bbox_right": 511,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"63705775-898e-4492-9653-476f2bdd602a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7b40143e-eb89-42d1-b186-c0fcd23e4f4c",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 457,
+  "height": 512,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c0cc6e95-7ba0-42bc-b5fe-570ca3115938","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8216a000-77c7-49e2-bcf0-9cfc78960946","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"63705775-898e-4492-9653-476f2bdd602a","path":"sprites/spr_ai19/spr_ai19.yy",},},},"Disabled":false,"id":"b2f7a0e0-13b9-48d5-b132-ad200c5e7978","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7b40143e-eb89-42d1-b186-c0fcd23e4f4c","path":"sprites/spr_ai19/spr_ai19.yy",},},},"Disabled":false,"id":"19a288c1-44f1-473c-ba0d-26afdbdb1db2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 474,
+  "width": 512,
 }

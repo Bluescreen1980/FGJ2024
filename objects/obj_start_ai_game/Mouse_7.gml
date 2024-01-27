@@ -14,5 +14,9 @@ global.selectedTextArt2 = "";
 global.selectedTextArt3 = "";
 global.selectedTextArt4 = "";
 global.selectedTextArt5 = "";
+global.pointModifier1 = 0;
+global.pointModifier2 = 0;
+global.pointModifier3 = 0;
+global.pointModifier4 = 0;
 
 room_goto(rm_galleryGame1);

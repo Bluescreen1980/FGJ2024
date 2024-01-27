@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_ai18",
-  "bbox_bottom": 1279,
+  "bbox_bottom": 511,
   "bbox_left": 0,
-  "bbox_right": 1279,
+  "bbox_right": 511,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"21e1d8d4-f371-492b-806e-50245eb5c01f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0840119b-a7dc-405f-a015-5fde50b0cb2d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1280,
+  "height": 512,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4061aa9e-99e5-4820-a8cd-e6b6c1abdcc4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4320572c-f709-4254-8956-0a260cde3ff7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"21e1d8d4-f371-492b-806e-50245eb5c01f","path":"sprites/spr_ai18/spr_ai18.yy",},},},"Disabled":false,"id":"845176dd-0cae-4010-8792-fd119257546d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0840119b-a7dc-405f-a015-5fde50b0cb2d","path":"sprites/spr_ai18/spr_ai18.yy",},},},"Disabled":false,"id":"9f52328d-8ae2-47ba-b6ff-b2dc23d428ab","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1280,
+  "width": 512,
 }
