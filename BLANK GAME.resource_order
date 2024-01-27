@@ -72,6 +72,7 @@
     {"name":"fnt_medium","order":1,"path":"fonts/fnt_medium/fnt_medium.yy",},
     {"name":"spr_ai45","order":51,"path":"sprites/spr_ai45/spr_ai45.yy",},
     {"name":"spr_ai22","order":22,"path":"sprites/spr_ai22/spr_ai22.yy",},
+    {"name":"alkuruutuun_nimi","order":17,"path":"sprites/alkuruutuun_nimi/alkuruutuun_nimi.yy",},
     {"name":"spr_ai39","order":19,"path":"sprites/spr_ai39/spr_ai39.yy",},
     {"name":"spr_ai15","order":39,"path":"sprites/spr_ai15/spr_ai15.yy",},
     {"name":"spr_ai12","order":32,"path":"sprites/spr_ai12/spr_ai12.yy",},
