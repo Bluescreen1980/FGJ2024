@@ -5,7 +5,7 @@ keypressed = 0;
 wx = window_get_width();
 wy = window_get_height();
 x = 1024;
-y = wy*0.35;
+y = wy*0.25;
 image_alpha = 0;
 
 text0 = "End of competition";
